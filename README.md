@@ -33,5 +33,5 @@
 
 # Weekly Reflections
   # Week 
-  Upon completion of the first week of Deep Dive Coding Bootcamp, I have discovered that coding is more than an apparatus for opening the world, and is a reflection of who you are. Coding enables the individual utilizing it to express who they are, just as an artist does with their paintbrush or an author with their words. I know that I am passionate about video games and coding allows me to work towards and strive for my goals.
+  Upon completion of the first week of Deep Dive Coding Bootcamp, I have discovered that coding is more than an apparatus for opening the world, and is a reflection of who you are. Coding enables the individual utilizing it to express who they are, just as an artist does with their paintbrush or an author with their words. I know that I am passionate about video games and coding allows me to work towards and strive for my goals. From learning about arrays to primitives to for loops with nested if loops are incredible to witness them in action and compile before the programmer's eyes are fantastic and inspiring to continue. You can watch your creation and ideas come to life. 
 I am looking forward to learning more than I have in my first week, which is astonishing. I am sure looking back on the weeks ahead; I will be shocked to see where I started and where I have continued to progress. 
