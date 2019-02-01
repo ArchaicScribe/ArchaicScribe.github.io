@@ -45,3 +45,11 @@ I am looking forward to learning more than I have in my first week, which is ast
 
 
 ![currentlife](https://user-images.githubusercontent.com/16001268/52142189-3eb92300-2615-11e9-84d4-88dd130166a4.jpg)
+# Current Life Picture
+
+![3yearslater](https://user-images.githubusercontent.com/16001268/52142187-3c56c900-2615-11e9-9992-810b07b02004.jpg)
+# Three Years Later
+
+"The two images above represent my life, from the current status to three years in the future. The first one reminded me of a construction site for a new building, having the blocks, tools, and other necessary items to accomplish the task. Even though this will take time to erect the building, all of the components are there, and I have to go through the work to accomplish this task. The second picture represents accomplishing my goal, by not only erecting one building, but an entire city. The other buildings represent other certifications, skills, languages that I will pick up along the way to accomplishing my goal. I have a strong affinity to the ocean, and I will be living near one, ideally in either Boston or Seattle. Both cities signify that I have made it to my desired destination." 
+
+
