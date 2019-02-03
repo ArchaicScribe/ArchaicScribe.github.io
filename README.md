@@ -52,4 +52,7 @@ I am looking forward to learning more than I have in my first week, which is ast
 
 "The two images above represent my life, from the current status to three years in the future. The first one reminded me of a construction site for a new building, having the blocks, tools, and other necessary items to accomplish the task. Even though this will take time to erect the building, all of the components are there, and I have to go through the work to accomplish this task. The second picture represents accomplishing my goal, by not only erecting one building, but an entire city. The other buildings represent other certifications, skills, languages that I will pick up along the way to accomplishing my goal. I have a strong affinity to the ocean, and I will be living near one, ideally in either Boston or Seattle. Both cities signify that I have made it to my desired destination." 
 
+# Week 2 Reflections
+In week 2, we explored more keywords such as "this, enum, multidimensional arrays" and much more. We went through a plethora of examples of coding and utilizing the lessons we learned. I was definitely challenged this week, especially during Wednesday's Android project. Then Thursday came around, working on the War Game and it began to click more than before. After reading the book, practicing and watching a myriad of videos and tutorials, which helped tremendously. This class is a massive challenge, but it is an undertaking that I am looking forward to completing. 
+
 
