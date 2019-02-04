@@ -4,7 +4,7 @@
 
 * [LinkenIn](https://www.linkedin.com/in/alex-rauenzahn-0b77a5105/)
 * [GitHub](https://www.github.com/ArchaicScribe)
-
+* [Resume](https://drive.google.com/file/d/1XMQxRRLpkN3rFK-aSvPaTWAYjBnkrmFA/view?usp=sharing)
 
 # Introduction
  "Hi, my name is Alex. I want to design and create video games that bring entertainment to millions and open the imaginations, creativity, and ideas of millions more. I am doing this with the help through Microsoft Game Studios. I utilize C#, Java, C++, and other languages to accomplish this. I would love to meet up for coffee and explore ideas on how to achieve these goals."
