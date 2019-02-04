@@ -24,15 +24,13 @@
 * Communicates clearly and effectively
 * Reads and expands upon vocabulary/Can become pretentious and/or pedantic 
 
+[Diagram](https://drive.google.com/file/d/1GDOnf3-KpwQF0gYJmHCfq0XlY-SF7Ww8/view?usp=sharing)
 # Portfolio
 
 # Golden Circle
 * Work on AAA video games, specifically Halo 
 * Coding skills through languages such as Java, C++, C#, Python, and others.
 * Create and imagine new worlds, bring joy to millions, and innovate and galvanize others to work on video games.
-
-
-
 
 
 # Weekly Reflections
