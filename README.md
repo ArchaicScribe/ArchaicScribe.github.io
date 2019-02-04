@@ -36,7 +36,7 @@
 
 
 # Weekly Reflections
-  # Week 
+  # Week 1 Reflection
   Upon completion of the first week of Deep Dive Coding Bootcamp, I have discovered that coding is more than an apparatus for opening the world, and is a reflection of who you are. Coding enables the individual utilizing it to express who they are, just as an artist does with their paintbrush or an author with their words. I know that I am passionate about video games and coding allows me to work towards and strive for my goals. From learning about arrays to primitives to for loops with nested if loops are incredible to witness them in action and compile before the programmer's eyes are fantastic and inspiring to continue. You can watch your creation and ideas come to life. 
 I am looking forward to learning more than I have in my first week, which is astonishing. I am sure looking back on the weeks ahead; I will be shocked to see where I started and where I have continued to progress. 
 
@@ -55,4 +55,4 @@ I am looking forward to learning more than I have in my first week, which is ast
 # Week 2 Reflections
 In week 2, we explored more keywords such as "this, enum, multidimensional arrays" and much more. We went through a plethora of examples of coding and utilizing the lessons we learned. I was definitely challenged this week, especially during Wednesday's Android project. Then Thursday came around, working on the War Game and it began to click more than before. After reading the book, practicing and watching a myriad of videos and tutorials, which helped tremendously. This class is a massive challenge, but it is an undertaking that I am looking forward to completing. 
 
-
+file:///C:/Users/xande/Documents/Career/AlexRauenzahnResume.pdf
