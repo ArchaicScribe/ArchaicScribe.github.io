@@ -54,4 +54,7 @@ I am looking forward to learning more than I have in my first week, which is ast
 # Week 2 Reflections
 In week 2, we explored more keywords such as "this, enum, multidimensional arrays" and much more. We went through a plethora of examples of coding and utilizing the lessons we learned. I was definitely challenged this week, especially during Wednesday's Android project. Then Thursday came around, working on the War Game and it began to click more than before. After reading the book, practicing and watching a myriad of videos and tutorials, which helped tremendously. This class is a massive challenge, but it is an undertaking that I am looking forward to completing. 
 
+# Stove Top
 
+[Stove Top Diagram](https://drive.google.com/file/d/1y52sb3AluAXXfhuVhGT3phNTP2gtS1iZ/view?usp=sharing)
+      
