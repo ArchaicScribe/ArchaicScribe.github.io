@@ -60,15 +60,30 @@ In week 2, we explored more keywords such as "this, enum, multidimensional array
       
 # Two Organizations with site recommendations
 
+# First Site
 The name of the first organization I selected is Tour New Mexico. My reasons for choosing this specific site are the UI needs to be significantly overhauled. Some of the hyperlinks look very inaesthetic and appears not to have been updated in many years. The pictures they have do not seem to be of taken by their photographer and ripped off of other people's social media sites. Then for their tour schedule photos, they have pictures from Arizona and possibly one from New Mexico. This portion of the site is not a great representation of New Mexico and should have photos of the Land of Enchantment. Their hamburger menu is a nice touch, but the site overall is slim and lacking information, and the UI needs to be more interactive. 
 
 My strategy for reaching this person(s) would be a phone call, informing them that I have seen their website and had some suggestions to enhance their site.  I would strongly suggest redoing their UI portion of the site, acquire photos of New Mexico to showcase the state, update their logo and banner as well. The contact us section is antiquated and scarce; there is also a huge market for an app as well that they could capitalize and monetize and are missing a massive audience of tourism.
 
 
-Their contact information is as follows:
- P: 505.883.9178 or 800.333.7159                               
-C: 505.321.4864
-F: 505.883.3225
-E: tnm@tournewmexico.com
+* Their contact information is as follows:
+* P: 505.883.9178 or 800.333.7159                               
+* C: 505.321.4864
+* F: 505.883.3225
+* E: tnm@tournewmexico.com
 
-URL: http://www.tournewmexico.com/contact.html
+* Their URL: http://www.tournewmexico.com/contact.html
+
+# Second Site
+
+The second site I have selected is NMDOG.org. This specific site is for a great cause, trying to find dogs homes and it does need an extreme makeover from a UI perspective. Their drop-down menu is out-dated, and their welcome site is disorganized. For their contact us section, they have six different email addresses to get you to the right person correctly. The lack of conciseness and clarity can be frustrating and be off-putting to users visiting the site. They need to condense this and have a system in which the emails are read by a bot and organized so that the user does not have to figure that part out.
+
+I would approach the owner of the site in person, expressing how they have a worthy cause, but a chaotic and disorganized website. If they were able to revamp it with some simple formatting and appearance issues, they could completely change the way this site appears to visitors. Also, they could also integrate an app into this site that could help users of the app report dogs more rapidly and accurately pinpoint their location(s). 
+
+* Their contact info is as follows:
+* NMDOG
+* 9445 Coors Blvd NW #171
+* Albuquerque, NM 87114
+* (505) 886-1PAW
+
+* Their URL is: http://www.nmdog.org/about-us/contact.html
