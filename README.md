@@ -58,3 +58,17 @@ In week 2, we explored more keywords such as "this, enum, multidimensional array
 
 [Stove Top Diagram](https://drive.google.com/file/d/1y52sb3AluAXXfhuVhGT3phNTP2gtS1iZ/view?usp=sharing)
       
+# Two Organizations with site recommendations
+
+The name of the first organization I selected is Tour New Mexico. My reasons for choosing this specific site are the UI needs to be significantly overhauled. Some of the hyperlinks look very inaesthetic and appears not to have been updated in many years. The pictures they have do not seem to be of taken by their photographer and ripped off of other people's social media sites. Then for their tour schedule photos, they have pictures from Arizona and possibly one from New Mexico. This portion of the site is not a great representation of New Mexico and should have photos of the Land of Enchantment. Their hamburger menu is a nice touch, but the site overall is slim and lacking information, and the UI needs to be more interactive. 
+
+My strategy for reaching this person(s) would be a phone call, informing them that I have seen their website and had some suggestions to enhance their site.  I would strongly suggest redoing their UI portion of the site, acquire photos of New Mexico to showcase the state, update their logo and banner as well. The contact us section is antiquated and scarce; there is also a huge market for an app as well that they could capitalize and monetize and are missing a massive audience of tourism.
+
+
+Their contact information is as follows:
+ P: 505.883.9178 or 800.333.7159                               
+C: 505.321.4864
+F: 505.883.3225
+E: tnm@tournewmexico.com
+
+URL: http://www.tournewmexico.com/contact.html
