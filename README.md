@@ -57,6 +57,5 @@ I am looking forward to learning more than I have in my first week, which is ast
 # Week 2 Reflections
 In week 2, we explored more keywords such as "this, enum, multidimensional arrays" and much more. We went through a plethora of examples of coding and utilizing the lessons we learned. I was definitely challenged this week, especially during Wednesday's Android project. Then Thursday came around, working on the War Game and it began to click more than before. After reading the book, practicing and watching a myriad of videos and tutorials, which helped tremendously. This class is a massive challenge, but it is an undertaking that I am looking forward to completing. 
       
-
-
-
+# Week 3 Reflections
+During week 3, more of the ideas, concepts, and terminology have begun to make more sense. Structuring an actual program still seems to present difficulties when starting, but utilizing a whiteboard and markers helps me tremendously. I know I am much more of a visual learner and seeing the ideas, problems, and code in front of me helps me to think more apparent and more concisely. I still find many aspects of this program to be challenging and learning how to balance work and free time became a challenge at the end of last week. Hopefully, I can create a schedule that is better suited to this. 
