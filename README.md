@@ -8,6 +8,7 @@
 * [Online Presence Review](https://drive.google.com/open?id=1DYJu8Ien7T6O2qt7Rr-FUlUghOtemlW1_5JMT3MJGvM)
 * [Salary Expectations](https://docs.google.com/document/d/14ZO9XWcttnFi9OyXB9j_3dCPzZJreX2IG7XiVZ_1f5Q/edit?usp=sharing)
 * [Stove Top Diagram](https://drive.google.com/file/d/1y52sb3AluAXXfhuVhGT3phNTP2gtS1iZ/view?usp=sharing)
+* [Two Organizations with site recommendations](https://docs.google.com/document/d/1A4dRdTs_4ew8_l0rxbQ_xEuyCnbgId7U8hiRHfS36iI/edit?usp=sharing)
 
 # Introduction
  "Hi, my name is Alex. I want to design and create video games that bring entertainment to millions and open the imaginations, creativity, and ideas of millions more. I am doing this with the help through Microsoft Game Studios. I utilize C#, Java, C++, and other languages to accomplish this. I would love to meet up for coffee and explore ideas on how to achieve these goals."
@@ -56,32 +57,6 @@ I am looking forward to learning more than I have in my first week, which is ast
 # Week 2 Reflections
 In week 2, we explored more keywords such as "this, enum, multidimensional arrays" and much more. We went through a plethora of examples of coding and utilizing the lessons we learned. I was definitely challenged this week, especially during Wednesday's Android project. Then Thursday came around, working on the War Game and it began to click more than before. After reading the book, practicing and watching a myriad of videos and tutorials, which helped tremendously. This class is a massive challenge, but it is an undertaking that I am looking forward to completing. 
       
-# Two Organizations with site recommendations
-
-# First Site
-The name of the first organization I selected is Tour New Mexico. My reasons for choosing this specific site are the UI needs to be significantly overhauled. Some of the hyperlinks look very inaesthetic and appears not to have been updated in many years. The pictures they have do not seem to be of taken by their photographer and ripped off of other people's social media sites. Then for their tour schedule photos, they have pictures from Arizona and possibly one from New Mexico. This portion of the site is not a great representation of New Mexico and should have photos of the Land of Enchantment. Their hamburger menu is a nice touch, but the site overall is slim and lacking information, and the UI needs to be more interactive. 
-
-My strategy for reaching this person(s) would be a phone call, informing them that I have seen their website and had some suggestions to enhance their site.  I would strongly suggest redoing their UI portion of the site, acquire photos of New Mexico to showcase the state, update their logo and banner as well. The contact us section is antiquated and scarce; there is also a huge market for an app as well that they could capitalize and monetize and are missing a massive audience of tourism.
 
 
-* Their contact information is as follows:
-* P: 505.883.9178 or 800.333.7159                               
-* C: 505.321.4864
-* F: 505.883.3225
-* E: tnm@tournewmexico.com
 
-* Their URL: http://www.tournewmexico.com/contact.html
-
-# Second Site
-
-The second site I have selected is NMDOG.org. This specific site is for a great cause, trying to find dogs homes and it does need an extreme makeover from a UI perspective. Their drop-down menu is out-dated, and their welcome site is disorganized. For their contact us section, they have six different email addresses to get you to the right person correctly. The lack of conciseness and clarity can be frustrating and be off-putting to users visiting the site. They need to condense this and have a system in which the emails are read by a bot and organized so that the user does not have to figure that part out.
-
-I would approach the owner of the site in person, expressing how they have a worthy cause, but a chaotic and disorganized website. If they were able to revamp it with some simple formatting and appearance issues, they could completely change the way this site appears to visitors. Also, they could also integrate an app into this site that could help users of the app report dogs more rapidly and accurately pinpoint their location(s). 
-
-* Their contact info is as follows:
-* NMDOG
-* 9445 Coors Blvd NW #171
-* Albuquerque, NM 87114
-* (505) 886-1PAW
-
-* Their URL is: http://www.nmdog.org/about-us/contact.html
