@@ -9,6 +9,7 @@
 * [Salary Expectations](https://docs.google.com/document/d/14ZO9XWcttnFi9OyXB9j_3dCPzZJreX2IG7XiVZ_1f5Q/edit?usp=sharing)
 * [Stove Top Diagram](https://drive.google.com/file/d/1y52sb3AluAXXfhuVhGT3phNTP2gtS1iZ/view?usp=sharing)
 * [Two Organizations with site recommendations](https://docs.google.com/document/d/1A4dRdTs_4ew8_l0rxbQ_xEuyCnbgId7U8hiRHfS36iI/edit?usp=sharing)
+* [The Covenant Ground Rules](https://github.com/project-progression-system/ground-rules)
 
 # Introduction
  "Hi, my name is Alex. I want to design and create video games that bring entertainment to millions and open the imaginations, creativity, and ideas of millions more. I am doing this with the help through Microsoft Game Studios. I utilize C#, Java, C++, and other languages to accomplish this. I would love to meet up for coffee and explore ideas on how to achieve these goals."
