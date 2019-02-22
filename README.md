@@ -46,7 +46,6 @@ I am looking forward to learning more than I have in my first week, which is ast
 
 
 
-
 ![currentlife](https://user-images.githubusercontent.com/16001268/52142189-3eb92300-2615-11e9-84d4-88dd130166a4.jpg)
 # Current Life Picture
 
