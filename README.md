@@ -65,3 +65,6 @@ Week 4 has been the most challenging by far, due to the fact we had our first te
 
 # Collaboration Questions
 My group consists of Thomas, Lance, and myself. We are working on a project that will incorporate AR, education, and video games. I am excited to see how this project evolves and to see the growth within our group. My role within the team is to be the backend thinker, database designer, and an overall team player. My triggers are if someone is lazy, does not communicate, people not participating or contributing to the group. I relate best by phone via text, and I have received my other teammate's phone numbers. 
+
+# Week 5 Reflection 
+In the past week, the cohort and I visited One Million Cups, which was an eye-opening experience. I met with people from "exhibi-it," Hangerang, Bank of the West, and others. It was awesome to see that the tech community here in Albuquerque and that it is growing and people are trying to galvanize the tech scene. Building connections is an invaluable resource that I am beginning to tap into and utilize. In class, we started to study and incorporate databases and their structures, which I found extremely interesting. The course overall is beinning to make more sense and how it is all connected, yet, I know there is still so much more to learn. 
