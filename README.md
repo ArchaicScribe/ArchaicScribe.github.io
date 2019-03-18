@@ -4,7 +4,7 @@
 
 * [LinkedIn](https://www.linkedin.com/in/alex-rauenzahn-0b77a5105/)
 * [GitHub](https://www.github.com/ArchaicScribe)
-* [Resume](https://drive.google.com/file/d/1XMQxRRLpkN3rFK-aSvPaTWAYjBnkrmFA/view?usp=sharing)
+* [Resume](https://drive.google.com/file/d/13srb0ICxhxcXoEZ-kAQu3teYtfakqkuU/view?usp=sharing)
 * [Online Presence Review](https://drive.google.com/open?id=1DYJu8Ien7T6O2qt7Rr-FUlUghOtemlW1_5JMT3MJGvM)
 * [Salary Expectations](https://docs.google.com/document/d/14ZO9XWcttnFi9OyXB9j_3dCPzZJreX2IG7XiVZ_1f5Q/edit?usp=sharing)
 * [Stove Top Diagram](https://drive.google.com/file/d/1y52sb3AluAXXfhuVhGT3phNTP2gtS1iZ/view?usp=sharing)
