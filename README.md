@@ -74,3 +74,6 @@ For this week, working on the Android solo project was informative, challenging,
 
 # Week 7 Reflection
 In the past week, learning Android has been very productive, insightful, and I have learned a tremendous amount. I do feel much more comfortable with Android after being able to work on our own projects more, allowing more mobility and versatility. The upcoming week has the second test, which is more heavily Android dependent and that does make me feel better. Being able to work with my personal project has helped me to feel more comfortable with the logic as well and learning more about UI and UX. In the coming weeks, we will have both our capstone and personal Android projects due, and I will be swamped with work. 
+
+# Week 8 Reflection
+The past week has been primarily studying and building upon my project, along with brainstorming for our group project. This week has been trying, but I have learned a tremendous amount with arrays, databases, and their respective structures. Seeing and reading how all these different aspects of coding coming together is beginning to make the image clearer and more tangible to me. I have continued to watch videos to try and reinforce the ideas that have been taught to us as well. The test was a challenge, but I feel as though I performed well and understood the questions. 
